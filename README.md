@@ -18,7 +18,7 @@ Data Science graduate (**Master of Data Science, Monash University**) based in M
 - Available to start immediately
 - Temporary Graduate Visa (Subclass 485), valid until August 2029
 
-📄 **[View my resume](Siddhesh_Pawar_Resume.pdf)**
+📄 **[View my resume](Siddhesh_Pawar.pdf)**
 
 ---
 
@@ -36,4 +36,4 @@ Data Science graduate (**Master of Data Science, Monash University**) based in M
 ### 📫 Contact
 
 - Email: siddhesh.pawar.1397@gmail.com
-- LinkedIn: [add your LinkedIn URL here](https://www.linkedin.com/)
+- LinkedIn: [https://www.linkedin.com/in/siddhesh-pawar-5931b61b5/](https://www.linkedin.com/in/siddhesh-pawar-5931b61b5/)
